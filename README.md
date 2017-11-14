@@ -7,5 +7,4 @@ __Tudo ok?__
 
 Nao, deu tudo errado!
 
-
-Mudanca local
+Mudanca local e remota
